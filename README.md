@@ -1,6 +1,6 @@
 # ASTROS
 Semester 1 Project
-# ASTROS
+
 ## Python Pirates
 Syeda Sana Zehra Zaidi.
 

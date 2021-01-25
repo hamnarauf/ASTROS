@@ -2,13 +2,13 @@
 Semester 1 Project
 
 ## Python Pirates
-Syeda Sana Zehra Zaidi.
+Syeda Sana Zehra Zaidi
 
-Hamna Rauf.
+Hamna Rauf
 
-Hamna Naveed.
+Hamna Naveed
 
-Muhammad Waseem.
+Muhammad Waseem
 
 ## Project Description
     The game revolves around a space expedition in a spacecraft.
@@ -21,30 +21,43 @@ Muhammad Waseem.
 
 ## Features
    * MAIN MENU ELEMENTS
+   
     - Play
+    
     - Instructions
+    
     - Credits
+    
     - Exit
 
    * BACKGROUND
+   
     - Movement of background stars gives perspective of motion of the spacecraft which stays at the center of the screen.
     
    * HEADS-UP DISPLAY
+   
     - Health Bar (4 units)
+    
     - Score 
 
    * LEVELS OF DIFFICULTY
+   
     - Shifting of levels is success-based.
+    
     - Each higher level encompasses a higher level of difficulty with more frequent obstacles.
 
    * Voice automation
+   
     - Background music of menu and game.
+    
     - Interaction with boosters and hurdles are marked by different sounds
 
 ## Detailed Documentation
    * External Libraries:
+   
     - pygame
         Open Command Prompt
+        
         Type **'pip install pygame'**
 
    * Instructions:

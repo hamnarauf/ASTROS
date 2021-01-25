@@ -3,10 +3,10 @@ Semester 1 Project
 
 ## Python Pirates
 
-Syeda Sana Zehra Zaidi
-Hamna Rauf
-Hamna Naveed
-Muhammad Waseem
+- Syeda Sana Zehra Zaidi
+- Hamna Rauf
+- Hamna Naveed
+- Muhammad Waseem
 
 ## Project Description
     The game revolves around a space expedition in a spacecraft.

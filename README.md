@@ -2,12 +2,10 @@
 Semester 1 Project
 
 ## Python Pirates
+
 Syeda Sana Zehra Zaidi
-
 Hamna Rauf
-
 Hamna Naveed
-
 Muhammad Waseem
 
 ## Project Description

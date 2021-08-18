@@ -1,9 +1,6 @@
 # ASTROS
 > Python based game using pygame
 
-## By Python Pirates
-
-
 ## Project Description
     The game revolves around a space expedition in a spacecraft.
 

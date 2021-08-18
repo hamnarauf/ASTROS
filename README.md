@@ -1,12 +1,8 @@
 # ASTROS
-Semester 1 Project
+    Python based game using pygame
 
-## Python Pirates
+## By Python Pirates
 
-- Syeda Sana Zehra Zaidi
-- Hamna Rauf
-- Hamna Naveed
-- Muhammad Waseem
 
 ## Project Description
     The game revolves around a space expedition in a spacecraft.

@@ -1,5 +1,5 @@
 # ASTROS
-    Python based game using pygame
+> Python based game using pygame
 
 ## By Python Pirates
 

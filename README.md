@@ -1,5 +1,5 @@
 # ASTROS
-> Python based game using pygame
+> Python based game using pygame framework
 
 ## Project Description
     The game revolves around a space expedition in a spacecraft.
